@@ -1,0 +1,84 @@
+.services-heading {
+  color: #ffffff;
+  font-size: 35px;
+  font-family: 'Bree serif';
+  padding-top: 40px;
+}
+
+.Services-Image {
+  background-image: url('https://thumbs.dreamstime.com/b/conceptual-hand-writing-showing-our-services-concept-meaning-occupation-function-serving-intangible-products-male-wear-160644151.jpg');
+  height: 42vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.Horizontal-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.white-background {
+  height: 300vh;
+  background-color: #ffffff;
+}
+
+.image-style1 {
+  padding-top: 60px;
+  padding-left: 30px;
+}
+
+.heading1 {
+  color: #2e3033;
+  font-size: 30px;
+  padding-top: 50px;
+  padding-left: 30px;
+  font-family: 'Roboto';
+}
+
+.para1 {
+  color: #a6a2a3;
+  font-size: 18px;
+  padding-left: 33px;
+  font-family: 'Roboto';
+}
+
+.image-style2 {
+  padding-top: 60px;
+  padding-left: 70px;
+}
+
+.para2 {
+  color: #a6a2a3;
+  font-size: 18px;
+  padding-left: 33px;
+  padding-top: 25px;
+  font-family: 'Roboto';
+}
+
+.heading2 {
+  color: #2e3033;
+  font-size: 30px;
+  padding-top: 50px;
+  padding-left: 35px;
+  font-family: 'Roboto';
+}
+
+.para3 {
+  color: #a6a2a3;
+  font-size: 18px;
+  padding-left: 39px;
+  font-family: 'Roboto';
+}
+
+.para4 {
+  color: #a6a2a3;
+  font-size: 18px;
+  padding-top: 25px;
+  padding-left: 39px;
+  font-family: 'Roboto';
+}

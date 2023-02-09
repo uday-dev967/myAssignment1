@@ -1,0 +1,120 @@
+.Products-heading {
+  color: #32a2a8;
+  font-size: 35px;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+}
+
+.Products-Image {
+  background-image: url('https://media.istockphoto.com/id/1350804239/zh/%E5%90%91%E9%87%8F/purple-lavender-liquid-watercolor-background-with-golden-lines-pastel-violet-marble-alcohol-ink.jpg?s=612x612&w=0&k=20&c=cZx7p43winv7uJ2mZcvfuEDqKTcm3njpVriGQZ25Nns=');
+  height: 40vh;
+  background-size: cover;
+  display: flex;
+  justify-content: space-between;
+  align-items: space-between;
+}
+
+.Horizontal-container-1 {
+  background-color: #ebf7f7;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: space-between;
+  margin: 120px;
+}
+
+.Horizontal-container-2 {
+  background-color: #ebf7f7;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: space-between;
+  margin-left: 120px;
+  margin-top: 60px;
+  margin-right: 120px;
+}
+
+.white-background {
+  height: 300vh;
+  background-color: #ffffff;
+}
+
+.robot-heading1 {
+  color: black;
+  font-size: 30px;
+  padding-left: 20px;
+}
+
+.robot-para1 {
+  color: #a6a2a3;
+  font-size: 18px;
+  padding-left: 20px;
+}
+
+.robot-para2 {
+  color: #a6a2a3;
+  font-size: 18px;
+  padding-top: 25px;
+  padding-left: 20px;
+}
+
+.robot-heading2 {
+  font-size: 30px;
+  color: black;
+  padding-left: 20px;
+}
+
+.robot-para3 {
+  color: #a6a2a3;
+  font-size: 18px;
+  padding-left: 20px;
+}
+
+.products-Image-style {
+  height: 300px;
+}
+
+.robot-image {
+  padding-top: 25px;
+}
+
+.hr-style {
+  height: 3px;
+  width: 80px;
+  background-color: #eb4034;
+  border: 0px solid;
+  margin-left: 20px;
+}
+
+.Blue-container {
+  background-color: #1c124d;
+  height: 30vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.White-heading {
+  font-size: 25px;
+  color: #ffffff;
+}
+
+.Contact-button {
+  height: 40px;
+  width: 150px;
+  background-color: #eb4034;
+  border: 0px solid;
+  color: #ffffff;
+  margin-left: 30px;
+}
+
+.orange-p {
+  width: 100px;
+  margin-left: 40px;
+  color: #eb4034;
+  font-weight: 900;
+  font-size: 20px;
+}
