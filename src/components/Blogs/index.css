@@ -1,0 +1,100 @@
+.Blog-heading1 {
+  color: #ffffff;
+  font-size: 35px;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+}
+
+.AI-Image {
+  background-image: url('https://static.vecteezy.com/system/resources/thumbnails/010/422/007/small_2x/artificial-intelligence-cybernetic-circuit-brain-inside-high-technology-to-create-artificial-intelligence-ai-concept-illustration-free-vector.jpg');
+  height: 40vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Image-container-1 {
+  background-color: #dae7f0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: space-between;
+  margin-top: 120px;
+  width: 1000px;
+  align-self: center;
+}
+
+.Blog-Image {
+  height: 500px;
+  width: 1000px;
+}
+
+.Date-button {
+  height: 30px;
+  width: 80px;
+  background-color: #ffffff;
+  border: 0px solid;
+  color: #a6a2a3;
+  margin-left: 840px;
+}
+
+.News-button {
+  height: 30px;
+  width: 80px;
+  background-color: #8ade57;
+  border: 0px solid;
+  color: #ffffff;
+}
+.buttons-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.Blog-container2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Blog-heading2 {
+  color: #969e96;
+  font-size: 25px;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+}
+.Blog-paragraph1 {
+  color: #a6a2a3;
+  font-size: 18px;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+}
+
+.White-background-2 {
+  background-color: #ffffff;
+  width: 1000px;
+  padding: 10px;
+}
+
+.white-background {
+  background-color: #ffffff;
+  height: 150vh;
+}
+
+.ReadMore-Button {
+  height: 30px;
+  width: 80px;
+  background-color: #ffffff;
+  border: 0px solid;
+  color: #a6a2a3;
+  margin-left: 900px;
+  margin-top: 10px;
+}

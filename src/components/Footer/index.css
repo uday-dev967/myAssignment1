@@ -1,0 +1,45 @@
+.myfooter-container {
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+  align-self: center;
+}
+
+.mylist-container {
+  list-style-type: none;
+  padding: 0px;
+}
+
+.myabout-container {
+  width: 30%;
+}
+
+.mydetails-container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.mymain-container {
+  background-color: #dcf2f0;
+  margin-top: 50px;
+}
+
+.mycopy-write-container {
+  background-color: #0f0f0f;
+  color: #ffffff;
+  text-align: center;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+}
+
+.myicon {
+  font-size: 30px;
+}
+
+.mylink-item {
+  color: #0f0f0f;
+  text-decoration: none;
+  font-family: 'Roboto';
+}
