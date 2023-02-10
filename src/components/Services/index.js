@@ -1,9 +1,13 @@
 import Header from '../Header'
+import Footer from '../Footer'
 import './index.css'
 
 const Services = () => (
   <>
-    <Header />
+    <div className="absolute">
+      <Header />
+    </div>
+
     <div className="white-background">
       <div className="Services-Image">
         <h1 className="services-heading">Our Services</h1>
@@ -133,6 +137,7 @@ const Services = () => (
           className="image-style2"
         />
       </div>
+      <Footer />
     </div>
   </>
 )

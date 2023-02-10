@@ -1,0 +1,27 @@
+.contact-us-container {
+  background-image: url('https://rubixe.com/img/contact_us.jpg');
+  height: 40vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.absolute {
+  position: fixed;
+  width: 100%;
+}
+
+.contact-page-icons {
+  font-size: 40px;
+  color: #0390fc;
+}
+
+.details-container {
+  display: flex;
+  justify-content: space-between;
+  width: 40%;
+}
+
+.details {
+  width: 30%;
+}

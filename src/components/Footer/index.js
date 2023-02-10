@@ -77,10 +77,10 @@ const Footer = () => (
               <h6>Social Media</h6>
               <div>
                 <a href="https://www.facebook.com/Rubixe.Official/">
-                  <AiFillFacebook value={{color: 'blue', size: '50px'}} />
+                  <AiFillFacebook className="ai-icon" />
                 </a>
                 <a href="https://www.linkedin.com/company/rubixe">
-                  <AiFillLinkedin value={{color: 'blue', size: '50px'}} />
+                  <AiFillLinkedin className="ai-icon" />
                 </a>
               </div>
             </div>

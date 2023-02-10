@@ -65,7 +65,7 @@ const Home = () => (
           </TextContainer>
         </ContainerWrap>
         <IntroCardContainer>
-          <h1>TECH FOR TEENS - A RUBIXE INITIATIV</h1>
+          <h1>TECH FOR TEENS - A RUBIXE INITIATIVE</h1>
           <CardsContainer>
             <CardOne>
               <div className="heading-container">
@@ -84,13 +84,13 @@ const Home = () => (
             </CardOne>
             <CardTwo>
               <div>
+                <TitlePara>
+                  Gain awareness on Al and build an interactive story around it
+                </TitlePara>
                 <Icon
                   src="https://cdn-icons-png.flaticon.com/512/8616/8616547.png"
                   alt="cloud-ai"
                 />
-                <TitlePara>
-                  Introducing Al to children in an age appropriate manner.
-                </TitlePara>
               </div>
               <div className="pink">
                 <h1 className="heading heading-blue">02</h1>
@@ -108,19 +108,19 @@ const Home = () => (
                   alt="ai-brain"
                 />
                 <TitlePara>
-                  Introducing Al to children in an age appropriate manner.
+                  Acquire programming skills in a user-friendly format
                 </TitlePara>
               </div>
             </CardOne>
             <CardTwo>
               <div>
+                <TitlePara>
+                  Exposure to mini projects on diverse topics
+                </TitlePara>
                 <Icon
                   src="https://st2.depositphotos.com/6935094/11638/v/950/depositphotos_116386948-stock-illustration-icon-set-engineer.jpg"
                   alt="ai-project"
                 />
-                <TitlePara>
-                  Introducing Al to children in an age appropriate manner.
-                </TitlePara>
               </div>
               <div className="pink">
                 <h1 className="heading heading-blue">04</h1>
@@ -137,9 +137,7 @@ const Home = () => (
                   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzN9L9bBWVUywugnQpW5ZI3nSDeX9JDbw0uQ&usqp=CAU"
                   alt="classroom"
                 />
-                <TitlePara>
-                  Introducing Al to children in an age appropriate manner.
-                </TitlePara>
+                <TitlePara>Train the teachers programme</TitlePara>
               </div>
             </CardOne>
           </CardsContainer>

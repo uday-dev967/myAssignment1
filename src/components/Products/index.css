@@ -40,7 +40,6 @@
 .white-background {
   background-color: #ffffff;
   height: 90vh;
-  overflow-y: auto;
 }
 
 .robot-heading1 {
@@ -118,4 +117,8 @@
   color: #eb4034;
   font-weight: 900;
   font-size: 20px;
+}
+.absolute {
+  position: fixed;
+  width: 100%;
 }

@@ -14,7 +14,7 @@ export const IntroImage = styled.img`
 `
 
 export const Icon = styled.img`
-  width: 100px;
+  width: 70px;
   height: 100px;
 `
 
@@ -34,6 +34,7 @@ export const CardContainer = styled.div`
 
 export const TextContainer = styled.div`
   width: 70%;
+  color: #ffffff;
 `
 
 export const IntroContainer = styled.div`
@@ -69,10 +70,12 @@ export const CardOne = styled.div`
   box-shadow: 10px 0px 15px #646666;
   text-align: center;
   margin-right: 5px;
+  width: 200px;
 `
 
 export const CardTwo = styled.div`
   box-shadow: 0px 15px 10px #646666;
   text-align: center;
   margin-right: 5px;
+  width: 200px;
 `

@@ -10,7 +10,9 @@ const Products = props => {
   }
   return (
     <>
-      <Header />
+      <div className="absolute">
+        <Header />
+      </div>
       <div className="white-background">
         <div className="Products-Image">
           <img

@@ -22,7 +22,7 @@
 
 .mymain-container {
   background-color: #dcf2f0;
-  margin-top: 50px;
+  margin-top: 100px;
 }
 
 .mycopy-write-container {
@@ -42,4 +42,10 @@
   color: #0f0f0f;
   text-decoration: none;
   font-family: 'Roboto';
+}
+
+.ai-icon {
+  font-size: 30px;
+  color: blue;
+  margin: 0px;
 }

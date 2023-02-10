@@ -23,7 +23,6 @@
 }
 
 .white-background {
-  height: 300vh;
   background-color: #ffffff;
 }
 
@@ -81,4 +80,9 @@
   padding-top: 25px;
   padding-left: 39px;
   font-family: 'Roboto';
+}
+
+.absolute {
+  position: fixed;
+  width: 100%;
 }

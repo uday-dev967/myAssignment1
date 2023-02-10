@@ -3,6 +3,7 @@ import Home from './components/Home'
 import Services from './components/Services'
 import Products from './components/Products'
 import Blogs from './components/Blogs'
+import ContactUs from './components/ContactUs'
 import NotFound from './components/NotFound'
 import './App.css'
 
@@ -12,6 +13,7 @@ const App = () => (
     <Route exact path="/services" component={Services} />
     <Route exact path="/products" component={Products} />
     <Route exact path="/blog" component={Blogs} />
+    <Route exact path="/contact-us" component={ContactUs} />
     <Route path="/not-found" component={NotFound} />
     <Redirect to="/not-found" />
   </Switch>
