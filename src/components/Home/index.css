@@ -15,6 +15,15 @@
   box-shadow: 10px 0px 10px 0px #646666;
 }
 
+.brown {
+  background-color: brown;
+  height: 60px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  margin-bottom: 10px;
+  box-shadow: 10px 0px 10px 0px #646666;
+}
+
 .heading {
   font-size: 20px;
   margin: 10px;
@@ -31,6 +40,22 @@
   color: #0c0e45;
 }
 
+.heading-brown {
+  color: brown;
+}
+
+.heading-orange {
+  color: orange;
+}
+
+.heading-pink {
+  color: #680463;
+}
+
+.heading-green {
+  color: green;
+}
+
 .pink {
   background-color: #680463;
   display: flex;
@@ -39,6 +64,28 @@
   padding-top: 30px;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
+  margin-bottom: 10px;
+  box-shadow: 10px 0px 10px 0px #646666;
+}
+
+.green {
+  background-color: green;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  height: 60px;
+  padding-top: 30px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  margin-bottom: 10px;
+  box-shadow: 10px 0px 10px 0px #646666;
+}
+
+.orange {
+  background-color: orange;
+  height: 60px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
   margin-bottom: 10px;
   box-shadow: 10px 0px 10px 0px #646666;
 }

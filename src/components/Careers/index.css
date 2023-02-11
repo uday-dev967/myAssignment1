@@ -1,0 +1,42 @@
+.careers-main-container {
+  height: 90vh;
+}
+
+.careers-top-container {
+  background-image: url('https://rubixe.com/img/career1.jpg');
+  height: 30vh;
+  background-size: cover;
+}
+
+.absolute {
+  position: fixed;
+  width: 100%;
+}
+
+.careers-bottom-container {
+  background-image: url('https://rubixe.com/img/career2.jpg');
+  height: 30vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: #ffffff;
+}
+
+.let-join-button {
+  background-color: #69872e;
+  border-style: none;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 12px;
+  border-radius: 5px;
+}
+
+.middle-container {
+  list-style-type: none;
+  padding: 20px 50px 0px 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}

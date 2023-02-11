@@ -1,0 +1,94 @@
+.white-background {
+  background-color: #ffffff;
+  height: 200vh;
+}
+
+.About-Image {
+  background-image: url('https://www.shutterstock.com/image-vector/artificial-intelligence-humanoid-head-neural-260nw-1384554629.jpg');
+  height: 40vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.About-heading1 {
+  color: #ffffff;
+  font-size: 30px;
+}
+
+.About-container {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+}
+
+.heading1 {
+  color: black;
+  font-size: 25px;
+}
+
+.paragraph1 {
+  color: #717778;
+  font-size: 18px;
+  padding-left: 30px;
+}
+
+.light-blue-container1 {
+  margin-top: 50px;
+  background-color: #ebf6f7;
+  text-align: center;
+  height: 80vh;
+}
+
+.heading2 {
+  color: black;
+  font-size: 45px;
+  padding-top: 60px;
+}
+
+.Founders-container {
+  background-color: #ffffff;
+  height: 300px;
+  width: 250px;
+  margin: 20px;
+}
+
+.Founder-Image {
+  height: 200px;
+  width: 250px;
+}
+
+.Founder-heading {
+  color: black;
+  font-size: 22px;
+}
+
+.Founder-paragraph {
+  color: #d12440;
+  font-size: 18px;
+}
+
+.Over-all-container {
+  display: flex;
+  justify-content: center;
+}
+
+.Footer-white-background {
+  background-color: #ffffff;
+  height: 15vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.companies-container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 35px;
+}
+
+.absolute {
+  position: fixed;
+  width: 100%;
+}

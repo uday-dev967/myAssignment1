@@ -1,0 +1,30 @@
+.career-item-btn {
+  background-color: transparent;
+  border-style: none;
+}
+
+.btn-div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.btn-div :hover {
+  color: orangered;
+}
+.career-list-item {
+  width: 650px;
+}
+
+.arrow-icon {
+  font-size: 20px;
+}
+
+.arrow-icon :hover {
+  color: orangered;
+}
+
+.career-title {
+  font-size: 20px;
+  font-weight: 500;
+}

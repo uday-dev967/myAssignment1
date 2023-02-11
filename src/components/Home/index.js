@@ -93,15 +93,15 @@ const Home = () => (
                 />
               </div>
               <div className="pink">
-                <h1 className="heading heading-blue">02</h1>
+                <h1 className="heading heading-pink">02</h1>
               </div>
               <div className="heading-container"> </div>
             </CardTwo>
             <CardOne>
               <div className="heading-container">
-                <h1 className="heading heading-blue">03</h1>
+                <h1 className="heading heading-orange">03</h1>
               </div>
-              <div className="blue"> </div>
+              <div className="orange"> </div>
               <div>
                 <Icon
                   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZH4rfmkwfo0AK_BXeUC324kjZZJuCzwbRcA&usqp=CAU"
@@ -122,16 +122,16 @@ const Home = () => (
                   alt="ai-project"
                 />
               </div>
-              <div className="pink">
-                <h1 className="heading heading-blue">04</h1>
+              <div className="green">
+                <h1 className="heading heading-green">04</h1>
               </div>
               <div className="heading-container"> </div>
             </CardTwo>
             <CardOne>
               <div className="heading-container">
-                <h1 className="heading heading-blue">05</h1>
+                <h1 className="heading heading-brown">05</h1>
               </div>
-              <div className="blue"> </div>
+              <div className="brown"> </div>
               <div>
                 <Icon
                   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzN9L9bBWVUywugnQpW5ZI3nSDeX9JDbw0uQ&usqp=CAU"

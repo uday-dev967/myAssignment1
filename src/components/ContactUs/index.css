@@ -4,6 +4,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  background-size: cover;
 }
 
 .absolute {
@@ -24,4 +25,23 @@
 
 .details {
   width: 30%;
+}
+
+.body-content-container {
+  display: flex;
+  padding: 20px;
+  justify-content: center;
+}
+
+.contact-para-details {
+  font-size: 10px;
+}
+
+.contact-title {
+  color: #42b0f5;
+  font-weight: 600;
+}
+
+.text-content-details {
+  width: 600px;
 }
